@@ -2,7 +2,7 @@
 
 I am a 15 year old boy from the United States, currently teaching myself about Java, Kotlin, and C++ with the experience and knowledge about JavaScript and Python.
   
-- 🔭 I’m currently working on learning the following program languages below.
+- 🔭 I’m currently working on learning the **following program languages below.**
 
 - 🌱 I’m currently learning **Java, Kotlin, and C++**
 
