@@ -27,7 +27,7 @@ I am a 15 year old boy from the United States, currently teaching myself about J
 </p>
 
 ### ☎️ Contact Me:
- -  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** frost#1000
+ -  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** frost#0005
  - 📫 Email **-** frostyeahh@gmail.com
  
  ### 📊 Github Stats:
