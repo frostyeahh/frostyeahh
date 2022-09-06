@@ -1,14 +1,12 @@
 # About Me! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-I am a 15 year old boy from the United States, currently teaching myself about Java, Kotlin, and C++ with the experience and knowledge about JavaScript and Python.
+I am currently a 16 year old HighSchool Student learning how to code on the side hoping to major in computer science in the near future.
   
-- 🔭 I’m currently working on learning the **following program languages below.**
+- 💡 I am currently learning the **listed program languages below**.
 
-- 🌱 I’m currently learning **Java, Kotlin, and C++**
+- 🥇 I have experience in using **JavaScript and Python**.
 
-- 🤝 I have experience in **Javascript and Python**
-
-- 🎮 2022 Goals **Learn Java, Kotlin, and C++**
+- 🏆 My goals this year is learn more about **Java and C++**.
 
 <p align="left">
 </p>
@@ -27,7 +25,7 @@ I am a 15 year old boy from the United States, currently teaching myself about J
 </p>
 
 ### ☎️ Contact Me:
- -  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** frost#0005
+ -  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** frost#5420
  - 📫 Email **-** frostyeahh@gmail.com
  
  ### 📊 Github Stats:
