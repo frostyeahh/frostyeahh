@@ -15,8 +15,8 @@ I am currently 16 years old, in my junior year of HighSchool hoping to persue my
   
  - I currently have experience in the following programming languages! 
 <p allign="center">
-  <img allign=center src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="auto" width="40px">
-  <img allign=center src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="auto" width="40px">
+  <img allign=center> src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="auto" width="40px">
+  <img allign=center> src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="auto" width="40px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="auto" width="40px">
    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="auto" width="40px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="auto" width="40px">
