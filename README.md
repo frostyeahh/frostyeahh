@@ -14,7 +14,7 @@ I am currently 16 years old, in my junior year of HighSchool hoping to persue my
 <p align=left>
   
  - I currently have experience in the following programming languages! 
-<p allign="left">
+<p allign="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="auto" width="40px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="auto" width="40px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="auto" width="40px">
