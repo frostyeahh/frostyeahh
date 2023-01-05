@@ -19,9 +19,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="auto" width="40px">
 </p>
 
-☎️ Contact Me:
+### ☎️ Contact Me:
  -  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="15px"> Discord **-** frost#5420
- - 📫 Email **-** frostyeahh@gmail.com
+ ### - 📫 Email **-** frostyeahh@gmail.com
 
 <div>
   &nbsp;
