@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm frostyeah! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=frostyeahh&label=Profile%20views&color=0e75b6&style=flat" alt="frostyeahh" /> </p>
 
-<h1 allign="center">I am currently 16 years old, in my junior year of HighSchool hoping to persue my dreams in learning about the field of computer programming! </h1>
+<h3 allign="center">I am currently 16 years old, in my junior year of HighSchool hoping to persue my dreams in learning about the field of computer programming! </h3>
 
 <p align="left">
 </p>
@@ -10,7 +10,7 @@
 <img align=right src="https://lanyard-profile-readme.vercel.app/api/804660273444159518?bg=00000000" />
 <p align=left>
   
-I currently have experience in the following programming languages!
+<h1 allign="cennter" I currently have experience in the following programming languages!
 <p allign="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="auto" width="40px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="auto" width="40px">
@@ -19,14 +19,12 @@ I currently have experience in the following programming languages!
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="auto" width="40px">
 </p>
 
-Contact Me:
+☎️ Contact Me:
  -  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="15px"> Discord **-** frost#5420
- - Email **-** frostyeahh@gmail.com
+ - 📫 Email **-** frostyeahh@gmail.com
 
 <div>
   &nbsp;
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frostyeahh&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="frostyeahh" /></p>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=frostyeahh&show_icons=true&theme=dark&hide_border=true&locale=en" alt="frostyeahh" /></p>
 </div>
-Github Stats:
- Frost's Github Stats <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frostyeah&show_icons=true&locale=en" alt="frostyeah" /></p>
