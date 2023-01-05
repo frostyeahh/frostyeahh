@@ -21,7 +21,7 @@
 
 ### ☎️ Contact Me:
  -  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="15px"> Discord **-** frost#5420
- ### - 📫 Email **-** frostyeahh@gmail.com
+ - 📫 Email **-** frostyeahh@gmail.com 
 
 <div>
   &nbsp;
