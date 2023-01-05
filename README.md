@@ -1,7 +1,8 @@
 <h1 align="center">Hello there, I'm frostyeah! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=frostyeahh&label=Profile%20views&color=0e75b6&style=flat" alt="frostyeahh" /> </p>
 
-<h3 allign="center"> <p allign="center">  I am currently 16 years old, in my junior year of HighSchool hoping to persue my dreams in learning about the field of computer programming! </h3> </p>
+<h3 allign="center"> <p allign="center">  I am currently 16 years old, in my junior year of HighSchool hoping to persue my dreams in learning about the 
+                  field of computer programming! </h3> </p>
 
 <p align="center">
 </p>
