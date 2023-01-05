@@ -13,7 +13,7 @@ I am currently 16 years old, in my junior year of HighSchool hoping to persue my
 <img align=right src="https://lanyard-profile-readme.vercel.app/api/804660273444159518?bg=00000000" />
 <p align=left>
   
- - I currently have experience in the following programming languages! 
+ - 🐱‍👤I currently have experience in the following programming languages! 
 <p allign="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="auto" width="40px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="auto" width="40px">
