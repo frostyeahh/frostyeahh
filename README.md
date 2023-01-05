@@ -3,7 +3,7 @@
 
 <h3 allign="center"> <p allign="center">  I am currently 16 years old, in my junior year of HighSchool hoping to persue my dreams in learning about the field of computer programming! </h3> </p>
 
-<p align="left">
+<p align="center">
 </p>
 
 <p align=center>
