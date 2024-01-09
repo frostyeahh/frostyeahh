@@ -3,17 +3,17 @@
 
 **I am currently a 17 year old student actively working towards a computer science degree while also obtaining additional skills in the field of video arts. Holding the knowledge that I've gained, I've developed a portfolio in hopes to land myself a job sometime in the future.**
 
-    - 💡 I am currently learning the **listed program languages below**.
+- 💡 I am currently learning the **listed program languages below**.
 
-    - 🏆 My goals this year is learn more about **C++**.
+- 🏆 My goals this year is learn more about **C++**.
 
-    - 🥇 I have experience in using **JavaScript, Python, HTML, and Java!**.
+- 🥇 I have experience in using **JavaScript, Python, HTML, and Java!**.
 
 <p align=center>
 <img align=right src="https://lanyard-profile-readme.vercel.app/api/804660273444159518?bg=00000000" />
 <p align=left>
 
-     - 🐱I currently have experience in the following programming languages! 
+- 🐱I currently have experience in the following programming languages! 
 
 <p allign="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="auto" width="40px">
