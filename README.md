@@ -1,34 +1,62 @@
-<h1 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"></h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=frostyeahh&label=Profile%20views&color=0e75b6&style=flat" alt="frostyeahh" /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-**I am currently a 17 year old student actively working towards a computer science degree while also obtaining additional skills in the field of video arts. Holding the knowledge that I've gained, I've developed a portfolio in hopes to land myself a job sometime in the future.**
 
-- 💡 I am currently learning the **listed program languages below**.
 
-- 🏆 My goals this year is learn more about **C++**.
+<h3 align="center">A passionate software developer from the United States!</h3>
 
-- 🥇 I have experience in using **JavaScript, Python, HTML, and Java!**.
+<br/>
 
-<p align=center>
-<img align=right src="https://lanyard-profile-readme.vercel.app/api/804660273444159518?bg=00000000" />
-<p align=left>
+<div align="center">
+ 
 
-- 🐱I currently have experience in the following programming languages! 
-
-<p allign="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="auto" width="40px">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="auto" width="40px">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="auto" width="40px">
-   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="auto" width="40px">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="auto" width="40px">
-</p>
-
-### ☎️ Contact Me:
- -  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="20px"> Discord **-** frost#5420
- - 📫 Email **-** business.bigdreproductions@gmail.com 
-
- <div>
-  &nbsp;
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frostyeahh&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="frostyeahh" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=frostyeahh&show_icons=true&theme=dark&hide_border=true&locale=en" alt="frostyeahh" /></p>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:business.bigdreproductions@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/andres-alvarez-1739522a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://sites.google.com/view/shotbyydre/home" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,javascript,python" />
+    <img src="https://skillicons.dev/icons?i=," /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>Current Status</h2>
+  <br>
+  <img  src="https://lanyard-profile-readme.vercel.app/api/804660273444159518?bg=00000000"" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center"></h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=frostyeahh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=frostyeahh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
